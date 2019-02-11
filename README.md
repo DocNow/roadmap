@@ -1,6 +1,7 @@
 # Technology Roadmap
 
-The following is a high-level quarterly roadmap of the second phase of the
+The following is a high-level quarterly roadmap of the [second
+phase](https://news.docnow.io/documenting-the-now-phase-2-83d76a9ee0a8) of the
 [Documenting the Now](https://www.docnow.io) project. At the moment it is
 focused on technical developments but we may add other aspects of the project in
 the future. If you have questions or comments please ask using the [issue
