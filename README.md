@@ -19,8 +19,8 @@ phase](https://news.docnow.io/documenting-the-now-phase-2-83d76a9ee0a8) of the
 
 ## 04/2019 - 06/2019
 
-* View Tweets/Users: provide DocNow views for exploring the tweets and users that have been collected. e.g. the first tweeets collected, most retweeted, most commented...
-* Conversation: research, design & prototyping work on how the DocNow application can mediate converstations between the analyst (archivist/researcher) and content creators around consent/donation.
+* View Tweets/Users: Provide DocNow views for exploring the tweets and users that have been collected. e.g. the first tweeets collected, most retweeted, most commented...
+* Conversation: Research, design & prototyping work on how the DocNow application can mediate converstations between the analyst (archivist/researcher) and content creators around consent/donation.
 
 ## 07/2019 - 09/2019
 
