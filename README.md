@@ -1,4 +1,4 @@
-# Roadmap
+# DocNow Roadmap
 
 The following is a high-level quarterly roadmap of the [second
 phase](https://news.docnow.io/documenting-the-now-phase-2-83d76a9ee0a8) of the
@@ -31,7 +31,7 @@ phase](https://news.docnow.io/documenting-the-now-phase-2-83d76a9ee0a8) of the
 ## 10/2019 - 12/2019
 
 * Catalog: Convert from Static Site to Web App
-* DocNow: updates from testing
+* DocNow: Updates from testing
 * Catalog: Design
 
 ## 01/2020 - 03/2020
