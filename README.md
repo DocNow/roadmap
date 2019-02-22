@@ -1,12 +1,9 @@
-# Technology Roadmap
+# Roadmap
 
 The following is a high-level quarterly roadmap of the [second
 phase](https://news.docnow.io/documenting-the-now-phase-2-83d76a9ee0a8) of the
-[Documenting the Now](https://www.docnow.io) project. At the moment it is
-focused on technical developments but we may add other aspects of the project in
-the future. If you have questions or comments please ask using the [issue
-tracker](https://github.com/DocNow/roadmap/issues) or over in
-[Slack](https://bit.ly/docnow-slack).
+[Documenting the Now](https://www.docnow.io) project. If you have questions or comments please ask over in
+[Slack](https://bit.ly/docnow-slack) or by adding an issue to the [issue tracker](https://github.com/DocNow/roadmap/issues) here on GitHub. If you have a specific suggestion for the roadmap, you can also send us a [draft pull request](https://github.blog/2019-02-14-introducing-draft-pull-requests/).
 
 ## 10/2018 - 12/2018 
 
