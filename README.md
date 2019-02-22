@@ -5,6 +5,8 @@ phase](https://news.docnow.io/documenting-the-now-phase-2-83d76a9ee0a8) of the
 [Documenting the Now](https://www.docnow.io) project. It get fleshed out over time as the work proceeds. If you have questions or comments please ask over in
 [Slack](https://bit.ly/docnow-slack) or by adding an issue to the [issue tracker](https://github.com/DocNow/roadmap/issues) here on GitHub. If you have a specific suggestion for the roadmap, you can also send us a [draft pull request](https://github.blog/2019-02-14-introducing-draft-pull-requests/).
 
+Our weekly development calls are mostly us catching up on Trello tickets in the last iteration. But we do have open calls the first Monday of every month at 2PM ET. The purpose here is to socialize some of the things we are working on and to hear from you. Please contact [info@docnow.io](mailto:info@docnow.io) for more information on how to join these calls.
+
 ## 10/2018 - 12/2018 
 
 * Hiring and onboarding
