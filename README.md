@@ -21,20 +21,24 @@ Our weekly development calls are mostly us catching up on Trello tickets in the 
 
 ## 04/2019 - 06/2019
 
-* View Tweets/Users: Provide DocNow views for exploring the tweets and users that have been collected. e.g. the first tweeets collected, most retweeted, most commented...
 * Conversation: Research, design & prototyping work on how the DocNow application can mediate converstations between the analyst (archivist/researcher) and content creators around consent/donation.
 
 ## 07/2019 - 09/2019
 
-* DocNow - Implement Conversation Design
-* DocNow - Repository Deposit
-* DocNow - Usability Testing
+* Quotas - Design and implement Quota System in DocNow application to give
+  instance administrators insight and control over how much data is being
+  collected by users.
+* Research feasibility of converting to PostgreSQL backend rather than Redis and
+  ElasticSearch so that the application could run with less compute resources.
+* Integrate Material Design Components into the DocNow application in order to
+  provide a coherent user experience now that we do not have a fulltime
+  designer.
 
 ## 10/2019 - 12/2019
 
-* Catalog - Convert from Static Site to Web App
-* DocNow - Updates from testing
-* Catalog Design
+* Address backend changes.
+* View Tweets/Users: Design DocNow views for exploring the tweets and users that have been collected. e.g. the first tweeets collected, most retweeted, most quoted.
+* Implement Conversation design.
 
 ## 01/2020 - 03/2020
 
