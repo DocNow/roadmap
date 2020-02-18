@@ -36,31 +36,35 @@ Our weekly development calls are mostly us catching up on Trello tickets in the 
 
 ## 10/2019 - 12/2019
 
-* Address backend changes.
+* Address database changes.
 * View Tweets/Users: Design DocNow views for exploring the tweets and users that have been collected. e.g. the first tweeets collected, most retweeted, most quoted.
-* Implement Conversation design.
+* ~~Implement Conversation design.~~
 
 ## 01/2020 - 03/2020
 
-* Implement Catalog 
-* Harvester (collect datasets from DocNow instances)
+* DocNow: Design cleanup and complete insights views.
+* DocNow: Database backend redesign.
+* Catalog: Redesign for discovery and curation.
 
 ## 04/2020 - 06/2020
 
-* Hydrator/Catalog Integration
+* Conversation design and implementation.
+* Hydrator: Catalog integration.
+* DocNow: User testing.
 
 ## 07/2020 - 09/2020
 
-* Archive Generation (Hydrator)
-* Static Export (Catalog)
+* DocNow: Download data enhancements.
+* DocNow: Upload tweet ids.
+* Hydrator: Integrate tweet-archive viewer.
+* DocNow: v1 release + supporting documentation.
+* Begin Phase 3 planning.
 
 ## 10/2020 - 12/2020
 
-* Hydrator/Catalog Usability Testing
-* Plan Mukurtu Transfers
+* DocNow: RaspberryPi Pilot.
+* Twarc: Premium API Support.
 
 ## 01/2021 - 03/2021
 
-* Hydrator / Catalog - updates from testing
-* Mukurtu Transfers
-* Catalog Static Export
+* Phase 2 wrapup.
