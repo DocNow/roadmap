@@ -48,7 +48,7 @@ Our weekly development calls are mostly us catching up on Trello tickets in the 
 
 ## 04/2020 - 06/2020
 
-* Conversation design and implementation.
+* DocNow: Conversation design and implementation.
 * Hydrator: Catalog integration.
 * DocNow: User testing.
 
