@@ -73,7 +73,7 @@ Our weekly development calls are mostly us catching up on Trello tickets in the 
 * DocNow app user guide.
 * Update demo and community deployments at Princeton.
 
-## 04/2021 - 06/20201
+## 04/2021 - 06/2021
 
 * Upload tweet ids.
 * Update DocNow website with latest documentation
