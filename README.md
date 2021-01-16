@@ -21,7 +21,7 @@ Our weekly development calls are mostly us catching up on Trello tickets in the 
 
 ## 04/2019 - 06/2019
 
-* Conversation: Research, design & prototyping work on how the DocNow application can mediate converstations between the analyst (archivist/researcher) and content creators around consent/donation.
+* Conversation: Research, design & prototyping work on how the DocNow application can mediate conversations between the analyst (archivist/researcher) and content creators around consent/donation.
 
 ## 07/2019 - 09/2019
 
@@ -55,16 +55,33 @@ Our weekly development calls are mostly us catching up on Trello tickets in the 
 ## 07/2020 - 09/2020
 
 * DocNow: Download data enhancements.
-* DocNow: Upload tweet ids.
+* ~~DocNow: Upload tweet ids.~~
 * Hydrator: Integrate tweet-archive viewer.
-* DocNow: v1 release + supporting documentation.
+* ~~DocNow: v1 release + supporting documentation.~~
 * Begin Phase 3 planning.
 
 ## 10/2020 - 12/2020
 
-* DocNow: RaspberryPi Pilot.
+* DocNow: RaspberryPi experimentation.
 * Twarc: Premium API Support.
 
 ## 01/2021 - 03/2021
 
-* Phase 2 wrapup.
+* 2020 Annual Report
+* Complete conversation implementation.
+* DocNow app installation documentation.
+* DocNow app user guide.
+* Update demo and community deployments at Princeton.
+
+## 04/2021 - 06/20201
+
+* Upload tweet ids.
+* Update DocNow website with latest documentation
+* DocNow v1.0.0 release
+* v3 Proposal
+
+## 07/2021 - 09/2021
+
+* RapspberryPi Pilot
+* DocNow user testing 
+* Phase 2 Wrap Up
